@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Peter Forward. I'm a Principal Consultant at [Forefront Technologies](https://www.fftechnologies.com/).  
+[Instagram](https://www.instagram.com/petejenny/), [Twitter](https://twitter.com/OzBlend), [YouTube](https://www.youtube.com/channel/UC8uQXrHfE-KKNxe2Et82nGA), [Facebook](https://www.facebook.com/pgforward/)
 <!--
 **pgforward/pgforward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
